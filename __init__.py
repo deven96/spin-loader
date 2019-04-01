@@ -1,3 +1,9 @@
+"""
+Spin Loader initializer library
+
+"""
+
+name = "spin-loader"
 import sys, time
 import os
 
